@@ -1,0 +1,22 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+
+# MD trajectory handling (used across most notebooks)
+MDAnalysis
+mdtraj
+
+# Phylogenetics (phylogenetic_tree-2.ipynb)
+biopython
+
+# Interactive 3D structure viewing (CESA1_contact_map.ipynb)
+py3Dmol
+
+# Exploratory/earlier clustering notebook only (kmeans-2.ipynb) — not needed
+# to run the CESA1/CESA3-specific notebooks
+pyemma
+contact_map
